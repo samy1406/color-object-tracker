@@ -43,7 +43,7 @@ Contours → Centroid → Draw
 Open notebook/CV_Project3_Ball_Tracker.ipynb in Google Colab
 
 ## What I Learned
-See LEARNING.md
+See learning.md
 
 ## Future Work
 - YOLOv8 for robust ball detection
