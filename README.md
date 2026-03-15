@@ -6,8 +6,8 @@ Detect and track a sports ball in broadcast video
 using classical computer vision techniques.
 
 ## Demo
-<img src="demo.png" width="600"/>
-
+<img src="demo image.png" width="600"/>
+<img src="download.png" width="600" />
 
 
 ## Pipeline
